@@ -1,0 +1,7 @@
+#issMap {
+    height: 400px;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
